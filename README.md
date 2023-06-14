@@ -1,2 +1,2 @@
-# semenium-test
+# selenium-test
 Course repository 
